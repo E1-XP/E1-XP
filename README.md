@@ -10,11 +10,14 @@
 
 ###
 
-* [Next-shop](https://next-shop-dev.vercel.app/), Clothing store written using T3 stack/Next.js
-* [Project-T](https://project-t-v2.netlify.app/), Full-stack <span>toggl</span>.com clone witten in React.js and Express.js
-* [Project-S](https://project-s-front.gtxcodeworks.com.pl/), Online drawing app, using rooms and chats (React.js/Express.js)
-* [GTxMotorsports](https://gtxmotorsports.netlify.com/), Multi page gallery written using my own framework (Project-F)
+* [Next-shop](https://next-shop-dev.vercel.app) - clothing store written using T3 stack/Next.js
+* [Project-T](https://project-t-v2.netlify.app) - full-stack <span>toggl</span>.com clone witten in React.js and Express.js
+* [Project-S](https://project-s-front.gtxcodeworks.com.pl) - online drawing app, using rooms and chats (React.js/Express.js)
+* [GTxMotorsports](https://gtxmotorsports.netlify.com) - multi page gallery written using my own framework (Project-F)
+* [Snake](https://ralfik.netlify.app) - canvas game written in Vanilla JS and Firebase
 
+
+...these and many more can be seen on my [portfolio page](https://gtxcodeworks.netlify.com) (Nuxt with SVG anims)
 ###
 
 <h2 align="left">My stack:</h2>
