@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sebastian and this is the central place of my self-taught programming adventure. I mainly work on front-end side of things using bleeding edge technology like Next.js, but I know how to write some back-end stuff too.  Personally, I find real-time and reactive (like websockets nad RxJS) aspects the most interesting to work with. Seriously, it might be only observer pattern usage, but it's like magic to me 😉 To understand the inner workings of JavaScript and it's frameworks, I have written my own (simple, but working) during my learning path. Man, that was tough 😂 When not coding I spend my time reading books, excercising, hiking, watching racing or listening to music.</p>
+<p align="left">My name is Sebastian and this is the central place of my self-taught programming adventure. I mainly work on front-end side of things using bleeding edge technology like Next.js, but I know how to write some back-end stuff too.  Personally, I find real-time and reactive (like websockets and RxJS) aspects the most interesting to work with. Seriously, it might be only observer pattern usage, but it's like magic to me 😉 To understand the inner workings of JavaScript and it's frameworks, I have written my own (simple, but working) during my learning path. Man, that was tough 😂 When not coding I spend my time reading books, excercising, hiking, watching racing or listening to music.</p>
 
 ###
 
