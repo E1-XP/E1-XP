@@ -17,7 +17,7 @@
 * [Snake](https://ralfik.netlify.app) - canvas game written in Vanilla JS and Firebase
 
 
-...these and many more can be seen on my [portfolio page](https://gtxcodeworks.netlify.com) (Nuxt with SVG anims)
+...these and many more can be seen on my [portfolio page](https://gtxcodeworks.netlify.app) (Nuxt with SVG anims)
 ###
 
 <h2 align="left">My stack:</h2>
